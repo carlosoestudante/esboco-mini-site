@@ -1,0 +1,14 @@
+body {
+  background-color: #999999; /* Fundo cinza como na imagem */
+}
+
+.titulo {
+  font-weight: bold;
+  color: #137547; /* Verde escuro */
+}
+
+.subtitulo {
+  color: #137547;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
